@@ -1,0 +1,21 @@
+#hero-section{
+    background-image: url("img1.jpg");
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+#br-text{
+background-color: rgba(0, 0, 0, 0.7);
+display: inline-block;
+padding: 8px 24px;
+}
+
+.architect-text{
+letter-spacing: 4px;
+}
+
+#about-section{
+filter: grayscale(70%);
+}
